@@ -1,6 +1,6 @@
 # vulnerable-app & attacker-app
 
-## ** DEPRECATED **
+## *** DEPRECATED ***
 
 This project has been deprecated and archived. This means that no issues, PRs or other maintenance actions will be performed on it.
 
